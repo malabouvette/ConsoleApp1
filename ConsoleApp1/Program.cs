@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Allez, tu vas y arriver !!");
             Console.WriteLine("et si jamais ça marchait pas");
+            Console.WriteLine("puis ça suffit")
             Console.ReadLine();
         }
     }
